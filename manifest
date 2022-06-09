@@ -1,0 +1,12 @@
+# Copyright 2020 Tommy van Vliet and other Contributors. Licensed under MIT
+# https://github.com/tommy-wm/roku-ui/blob/main/LICENSE
+##   Channel Details
+title=RokuUI
+major_version=1
+minor_version=0
+build_version=0
+
+ui_resolutions=FHD
+sg_component_libs_provided=RokuUI
+hidden=1
+rsg_version=1.2

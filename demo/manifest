@@ -1,0 +1,12 @@
+# Copyright 2020 Tommy van Vliet and other Contributors. Licensed under MIT
+# https://github.com/tommy-wm/roku-ui/blob/main/LICENSE
+##   Channel Details
+title=EmojiOnRokuDemo
+major_version=1
+minor_version=0
+build_version=1
+
+mm_icon_focus_hd=pkg:/images/channel-icon_HD.png
+mm_icon_focus_hd=pkg:/images/channel-icon_HD.png
+
+ui_resolutions=FHD

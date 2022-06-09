@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright Tommy van Vliet and other contributors. Licensed under MIT
+    https://github.com/tommy-wm/roku-ui/blob/main/LICENSE -->
+<component name="EmojiTesterScene" extends="Scene">
+    <script type="text/brightscript" uri="EmojiTesterScene.brs" />
+</component>
