@@ -1,11 +1,15 @@
-# Emoji On Roku
-This project is a port of the Twitter Emoji Project, [Twemoji](https://twemoji.twitter.com/). 
-The aim of this project is to provide Emoji support on Roku using scenegraph and brightscript.
+# RokuUI ComponentLibrary
+
+This project contains a collection of Roku UI Components which you can integrate into your project by either copy/paste, or via ComponentLibrary. 
+
+Current Components inluded:
+
+- EmojiLabel
 
 ## Installation
 
 Download the zip containing the source, and unzip the source files. 
-Place the source and components directories inside your project, in the same
+Place the contents of the source and components directories inside your project, in the same
 folder. 
 
 Alternativly, use component libraries to install the EmojiOnRoku project. 
@@ -14,6 +18,10 @@ https://developer.roku.com/docs/references/scenegraph/control-nodes/componentlib
 
 Also check the releases page on this Github repository for the correct url for the component 
 library. Checkout the demo project for a working example. 
+
+# Emoji On Roku
+This project is a port of the Twitter Emoji Project, [Twemoji](https://twemoji.twitter.com/). 
+The aim of this project is to provide Emoji support on Roku using scenegraph and brightscript.
 
 ## Usage
 
